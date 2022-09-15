@@ -75,6 +75,7 @@ do
             break;  
         default:
             System.out.println("Solo valores del Menu");
+             System.out.println("Solo valores del Menu");
             break;
     }    
 }
